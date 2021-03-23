@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mohamadsyauqi.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mohamadsyauqi.github.io/static/js/main.00fcdb0c.chunk.js",
+    "main.js.map": "/mohamadsyauqi.github.io/static/js/main.00fcdb0c.chunk.js.map",
+    "runtime-main.js": "/mohamadsyauqi.github.io/static/js/runtime-main.eef4b955.js",
+    "runtime-main.js.map": "/mohamadsyauqi.github.io/static/js/runtime-main.eef4b955.js.map",
+    "static/js/2.c55285d5.chunk.js": "/mohamadsyauqi.github.io/static/js/2.c55285d5.chunk.js",
+    "static/js/2.c55285d5.chunk.js.map": "/mohamadsyauqi.github.io/static/js/2.c55285d5.chunk.js.map",
+    "static/js/3.565a38fa.chunk.js": "/mohamadsyauqi.github.io/static/js/3.565a38fa.chunk.js",
+    "static/js/3.565a38fa.chunk.js.map": "/mohamadsyauqi.github.io/static/js/3.565a38fa.chunk.js.map",
+    "index.html": "/mohamadsyauqi.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mohamadsyauqi.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c55285d5.chunk.js.LICENSE.txt": "/mohamadsyauqi.github.io/static/js/2.c55285d5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mohamadsyauqi.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eef4b955.js",
+    "static/js/2.c55285d5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.00fcdb0c.chunk.js"
+  ]
+}
